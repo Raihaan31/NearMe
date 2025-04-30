@@ -106,11 +106,9 @@ Here’s the code from your image:
 
 ## OUTPUT
 ![alt text](<../mapapp/static/Screenshot 2025-04-30 104520.png>)
-
 ![alt text](<../Screenshot 2025-04-30 120847.png>)
-
 ![alt text](<../Screenshot 2025-04-30 121001.png>)
-
 ![alt text](<../Screenshot 2025-04-30 121022.png>)
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
