@@ -105,12 +105,14 @@ Here’s the code from your image:
 
 
 ## OUTPUT
-![alt text](<../mapapp/static/Screenshot 2025-04-30 104520.png>)
+![image](https://github.com/user-attachments/assets/2e5687d7-b1c2-458f-ad3f-e42cf96b10f8)
 
-![alt text](<../Screenshot 2025-04-30 120847.png>)
 
-![alt text](<../Screenshot 2025-04-30 121001.png>)
+![image](https://github.com/user-attachments/assets/d916d6be-8f4f-4960-8b66-e1f3ebfdb324)
 
-![alt text](<../Screenshot 2025-04-30 121022.png>)
+![image](https://github.com/user-attachments/assets/20ee9f4e-4acb-44f5-99b4-13c23013d947)
+
+
+![image](https://github.com/user-attachments/assets/a4a7d5c4-5067-451e-8468-97e837b0b71c)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
